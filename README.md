@@ -1,0 +1,1 @@
+Sons of St Joseph B+D prototype with user-provided hero. Original five navigation items preserved: Home, Blog, Jesus Loves You, Shop, Contact. External sections link to existing site, rather than pretending to have been fully migrated. Homepage has partial original text; full site archive, image library, FAQ and shop migration still needed. WCAG 2.2 AA audit outstanding.
